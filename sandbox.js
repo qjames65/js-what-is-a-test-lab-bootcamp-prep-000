@@ -1,0 +1,2 @@
+var word
+word = 'bird'
